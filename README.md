@@ -1,5 +1,4 @@
-<img src="https://circleci.com/gh/ORESoftware/live-mutex.png?branch=main&circle-token=4984192">
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/kmante04/KMANTE_PROJECT_4_UDACITY_OPERATIONIZE_ML_MICROSERVICE/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/kmante04/KMANTE_PROJECT_4_UDACITY_OPERATIONIZE_ML_MICROSERVICE/tree/main)
 
 ## Project Overview
 
