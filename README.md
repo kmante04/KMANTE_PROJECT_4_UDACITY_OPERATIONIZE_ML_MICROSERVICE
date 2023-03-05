@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+<img src="https://circleci.com/gh/ORESoftware/live-mutex.png?branch=main&circle-token=4984192">
+
 
 ## Project Overview
 
