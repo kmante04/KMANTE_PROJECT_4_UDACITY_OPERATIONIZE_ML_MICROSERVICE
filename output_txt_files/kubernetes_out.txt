@@ -1,8 +1,17 @@
 (.devops) ubuntu@ip-172-31-12-2:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "kmantemicroproject" already exists
-NAME                 READY   STATUS    RESTARTS   AGE
-kmantemicroproject   1/1     Running   0          120s
+NAME                 READY   STATUS    RESTARTS     AGE
+kmantemicroproject   1/1     Running   1 (8h ago)   10h
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
 Handling connection for 8000
+
+
+(.devops) ubuntu@ip-172-31-12-2:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
